@@ -1,2 +1,4 @@
 # LaTex
-Documentos creados en latex
+## Documentos creados en latex
+
+Repositorio en construcción...
