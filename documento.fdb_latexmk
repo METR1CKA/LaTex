@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1655130530 "/home/metricka/tools/repos/LaTex/documento.tex" "/home/metricka/tools/repos/LaTex/documento.pdf" "documento" 1655130531
+["pdflatex"] 1655130932 "/home/metricka/tools/repos/LaTex/documento.tex" "/home/metricka/tools/repos/LaTex/documento.pdf" "documento" 1655130933
   "/etc/texmf/web2c/texmf.cnf" 1655082835 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/metricka/tools/repos/LaTex/documento.aux" 1655130531 139 70597f11bcb94f94994d74c3d91e5b97 ""
-  "/home/metricka/tools/repos/LaTex/documento.tex" 1655130529 337 1404d2ef2aaf26eeb85350079161bd2c ""
+  "/home/metricka/tools/repos/LaTex/documento.aux" 1655130933 139 70597f11bcb94f94994d74c3d91e5b97 ""
+  "/home/metricka/tools/repos/LaTex/documento.tex" 1655130932 346 a0211abb3ce59059ceb24716ec3982d0 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf" 1456955205 26223 0286ca123141cff8dd4956c4576d2ef4 ""
   "/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def" 1581719732 87344 ec128793fb5196bbcc1741e5366ddac1 ""
@@ -17,11 +17,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1655083024 4770781 1ed1abab22da9c3e2cc82e4db562318b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1655083040 8262259 41d768cd866bf992bd9b7e3c959b0a33 ""
-  "documento.aux" 1655130531 139 70597f11bcb94f94994d74c3d91e5b97 "pdflatex"
-  "documento.tex" 1655130529 337 1404d2ef2aaf26eeb85350079161bd2c ""
+  "documento.aux" 1655130933 139 70597f11bcb94f94994d74c3d91e5b97 "pdflatex"
+  "documento.tex" 1655130932 346 a0211abb3ce59059ceb24716ec3982d0 ""
   (generated)
-  "documento.log"
-  "/home/metricka/tools/repos/LaTex/documento.pdf"
-  "/home/metricka/tools/repos/LaTex/documento.log"
-  "documento.aux"
   "documento.pdf"
+  "/home/metricka/tools/repos/LaTex/documento.pdf"
+  "documento.aux"
+  "/home/metricka/tools/repos/LaTex/documento.log"
+  "documento.log"

@@ -7,7 +7,14 @@ Es un sistema de composición de textos, orientado a la creación de documentos 
 
 LaTeX está formado por un gran conjunto de macros de TeX, escrito por Leslie Lamport en 1984, con la intención de facilitar el uso del lenguaje de composición tipográfica TEX, creado por Donald Knuth. Es muy utilizado para la composición de artículos académicos, tesis y libros técnicos, dado que la calidad tipográfica de los documentos realizados en LaTeX, se considera adecuada a las necesidades de una editorial científica de primera línea, muchas de las cuales ya lo emplean.
 ***
+
+### Objetivos
+
+El objetivo de este repositorio es que el usuario aprenda las bases de LaTex para la creación de documentos de tipo informes, profesionales y formales teniendo a su disponibilidad en este repositorio archivos para su inicio en este sistema
+
+***
 ### Ejemplo
+#### Codigo
 
 ``` LaTex
 \documentclass[12pt]{article}
@@ -34,11 +41,11 @@ m &= \frac{m_0}{\sqrt{1-\frac{v^2}{c^2}}}
 \end{document}
 ```
 ***
-### Resultado
+#### Resultado
 
 ![Imagen del documento](Ejemplo_LaTeX.png "Preview del documento")
 ***
-# **METR1CKA**
+## **METR1CKA**
 
 > [Pagina web](https://metr1cka.github.io "Visitanos")
 
